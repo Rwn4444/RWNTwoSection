@@ -1,1 +1,1 @@
-pod "RWNTwoSection_Category"
+# RWNTwoSection
