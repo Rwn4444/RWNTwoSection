@@ -1,0 +1,7 @@
+RWNTwoSection_Category.xcodeproj/xcuserdata/
+RWNTwoSection_Category.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+RWNTwoSection_Category.xcodeproj/project.xcworkspace/xcuserdata/
